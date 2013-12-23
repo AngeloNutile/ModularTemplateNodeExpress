@@ -1,0 +1,9 @@
+{
+  "name": "CMSTemplate",
+  "version": "0.0.1",
+  "description": "CMS - a demo application",
+  "dependencies": {
+    "express": "~3.4.7",
+    "jade": "~1.0.0"
+  }
+}
