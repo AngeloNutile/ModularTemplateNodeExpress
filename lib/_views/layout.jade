@@ -1,7 +1,11 @@
 doctype html
-html(lang="en")
-	head
-	title CMSTemplate
-	body
-		h1 CMS Template
-		block content
+html(lang='en')
+  include _inc/header
+
+  body
+    include _inc/navigation
+  .container.marketing
+    block content
+    include _inc/footer
+    include _inc/scripts
+  

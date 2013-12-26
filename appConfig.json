@@ -1,0 +1,10 @@
+{
+	"directories":{
+		"publicDir:":"/public"
+	},
+	"app":{
+		"name":"ModularTemplateNodeExpress",
+		"rootPage":"app.js",
+		"devPort":3001
+	}
+}
